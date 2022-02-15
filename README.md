@@ -5,13 +5,11 @@
 
 - 🌱 I’m currently learning **Advanced CSS and SASS**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-jose-rodolfo.herokuapp.com/](https://portfolio-jose-rodolfo.herokuapp.com/)
+- 👨‍💻 Portfolio [https://portfolio-jose-rodolfo.herokuapp.com/](https://portfolio-jose-rodolfo.herokuapp.com/)
 
 - 💬 Ask me about **React**
 
 - 📫 How to reach me **rodolfojose@live.com**
-
-- 📄 Know about my experiences [https://portfolio-jose-rodolfo.herokuapp.com/resume.html](https://portfolio-jose-rodolfo.herokuapp.com/resume.html)
 
 - ⚡ Fun fact **I love Pizza!**
 
