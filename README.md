@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jose Rodolfo Martinez Bardales</h1>
 <h3 align="center">Computer Systems Engineer Based In Honduras. Fluent in Spanish and English.</h3>
 
-- 🔭 I’m currently working in [CodexAcademy](https://www.codex.academy/#/)
+- 🔭 I’m currently working in [Hello Iconic](https://www.helloiconic.com/)
 
 - 🌱 I’m currently learning **Advanced CSS and SASS**
 
