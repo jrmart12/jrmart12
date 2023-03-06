@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Advanced CSS and SASS**
 
-- 👨‍💻 Portfolio [https://jr-martinez.com](https://jr-martinez.com)
+- 👨‍💻 Portfolio [jr-martinez.com](https://jr-martinez.com)
 
 - 💬 Ask me about **React**
 
