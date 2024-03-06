@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **rodolfojose@live.com**
 
-- ⚡ Fun fact **I love Pizza!**
+- ⚡ Fun fact **I love Pizza and like playing casual league of legends as an adc!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
