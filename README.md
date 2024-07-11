@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working in [Hello Iconic](https://www.helloiconic.com/)
 
-- 🌱 I’m currently learning **React Native and Next JS**
+- 🌱 I’m currently learning **Nest JS and Next JS**
 
 - 👨‍💻 Portfolio [jr-martinez.com](https://jr-martinez.com)
 
